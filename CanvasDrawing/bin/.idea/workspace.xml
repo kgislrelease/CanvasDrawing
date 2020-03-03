@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec9f1066-f54b-4330-9fae-1877265d04cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YU7uwXIw9O4WJTwwT3GdANVTnh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/canvas/drawing" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.canvas.common" />
+      <recent name="com.canvas" />
+      <recent name="com.canvas.painter" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.canvas.drawing" />
+      <recent name="com.canvas.common" />
+      <recent name="com.canvas.exception" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/canvas/drawing" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/canvas/common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.CanvasDrawing.jar">
+    <configuration name="CanvasRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.canvas.CanvasRunner" />
+      <module name="CanvasDrawing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.canvas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanvasRunnerTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CanvasDrawing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.canvas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.canvas" />
+      <option name="MAIN_CLASS_NAME" value="com.canvas.CanvasRunnerTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryTest.painterEnumFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CanvasDrawing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.canvas.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.canvas.common" />
+      <option name="MAIN_CLASS_NAME" value="com.canvas.common.FactoryTest" />
+      <option name="METHOD_NAME" value="painterEnumFactoryTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryTest.setCommand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CanvasDrawing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.canvas.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.canvas.common" />
+      <option name="MAIN_CLASS_NAME" value="com.canvas.common.FactoryTest" />
+      <option name="METHOD_NAME" value="setCommand" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanvasDrawing.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/CanvasDrawing.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.CanvasDrawing.jar" />
+        <item itemvalue="Application.CanvasRunner" />
+        <item itemvalue="JUnit.FactoryTest.painterEnumFactoryTest" />
+        <item itemvalue="JUnit.FactoryTest.setCommand" />
+        <item itemvalue="JUnit.CanvasRunnerTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec9f1066-f54b-4330-9fae-1877265d04cd" name="Default Changelist" comment="" />
+      <created>1582985545369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582985545369</updated>
+      <workItem from="1582985548107" duration="30244000" />
+      <workItem from="1583079332180" duration="3194000" />
+      <workItem from="1583121362436" duration="157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="219" key="#Project_Structure" timestamp="1582989545273">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="560" y="219" key="#Project_Structure/0.23.1920.1057@0.23.1920.1057" timestamp="1582989545273" />
+    <state x="100" y="123" width="1720" height="857" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583072904689">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="100" y="123" width="1720" height="857" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1583072904689" />
+    <state x="1088" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583068251355">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1088" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1583068251355" />
+    <state x="723" y="262" key="#xdebugger.evaluate" timestamp="1583077459005">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="723" y="262" key="#xdebugger.evaluate/0.23.1920.1057@0.23.1920.1057" timestamp="1583077459005" />
+    <state width="511" height="466" key="DebuggerActiveHint" timestamp="1583077515749">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="511" height="466" key="DebuggerActiveHint/0.23.1920.1057@0.23.1920.1057" timestamp="1583077515749" />
+    <state width="1878" height="354" key="GridCell.Tab.0.bottom" timestamp="1583110701747">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="354" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1583110701747" />
+    <state width="1878" height="354" key="GridCell.Tab.0.center" timestamp="1583110701746">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="354" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1583110701746" />
+    <state width="1878" height="354" key="GridCell.Tab.0.left" timestamp="1583110701746">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="354" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1583110701746" />
+    <state width="1878" height="354" key="GridCell.Tab.0.right" timestamp="1583110701747">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="354" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1583110701747" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1583079022304">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1583079022304" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center" timestamp="1583079022303">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1583079022303" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left" timestamp="1583079022303">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1583079022303" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right" timestamp="1583079022304">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1583079022304" />
+    <state x="469" y="190" key="SettingsEditor" timestamp="1583108580780">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="469" y="190" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1583108580780" />
+    <state width="960" height="528" key="XDebugger.FullValuePopup" timestamp="1583077272942">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="960" height="528" key="XDebugger.FullValuePopup/0.23.1920.1057@0.23.1920.1057" timestamp="1583077272942" />
+    <state x="100" y="123" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583078108545">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="100" y="123" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1583078108545" />
+    <state x="739" y="301" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583076329017">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="739" y="301" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1583076329017" />
+    <state x="626" y="310" width="667" height="486" key="find.popup" timestamp="1583068026080">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="626" y="310" width="667" height="486" key="find.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1583068026080" />
+    <state x="354" y="251" key="new project wizard" timestamp="1582991066110">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="354" y="251" key="new project wizard/0.23.1920.1057@0.23.1920.1057" timestamp="1582991066110" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/canvas/common/Command.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CanvasDrawing$CanvasRunner.ic" NAME="CanvasRunner Coverage Results" MODIFIED="1583070117380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.canvas.*</FILTER>
+    </SUITE>
+  </component>
+</project>

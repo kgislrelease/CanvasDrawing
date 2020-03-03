@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: e065890
+Class-Path: commons-lang3-3.9.jar
+Build-Jdk: 1.8.0_181
+Created-By: Maven Integration for Eclipse
+Main-Class: com.canvas.CanvasRunner
+
